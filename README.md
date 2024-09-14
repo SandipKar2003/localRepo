@@ -1,2 +1,2 @@
 # Making repository from vs code
-# hi iam sandip
+# hi i am sandip
